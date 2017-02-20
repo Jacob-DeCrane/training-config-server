@@ -1,6 +1,5 @@
 zuul:
   routes:
-    movie: /movie/**
-    actor: /actor/**
-    genre: /genre/**
-    role: /role/**
+    inventory: /inventory/**
+    deliveries: /deliveries/**
+    leases: /leases/**
